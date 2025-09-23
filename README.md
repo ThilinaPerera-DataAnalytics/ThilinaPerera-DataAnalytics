@@ -2,11 +2,13 @@
 **Data Analytics/ Data Science/ Data Engineering | Power BI Certified | 9+ years in QA/ QC, Food, Warehousing & Logistics**<br>
 <br>I’m a **Microsoft Certified Power BI Data Analyst (PL-300)** with a strong foundation in **Data Analytics**, **Data Storytelling**, and **Visualization**.
 
-My career started in the **food industry, quality assurance, warehousing, and logistics**, where I spent 9+ years ensuring ISO, HACCP, and FSSC 22000 compliance, **optimizing processes**, and driving continuous improvement.<br>
-<br>Now, I’m focused on **Data Science and Analytics**, translating complex datasets into actionable insights using **SQL, Power BI, Excel and Python**.
+My career started in the **Food industry, Quality Assurance, Warehousing, and Logistics**, where I spent 9+ years ensuring ISO, HACCP, and FSSC 22000 compliance, **optimizing processes**, and **driving continuous improvement**.<br>
 
-I’m also building skills in **Deep Learning, NLP, LLMs, building data pipelines with process automation**, combining my industry knowledge with technical expertise to deliver data-driven solutions.<br>
-<br>I bring a rare blend of hands-on industry expertise and analytics skills, making me uniquely positioned to help organizations turn raw data into strategies that drive efficiency, innovation, and growth.
+Now, I’m focused on **Data Science and Analytics**, translating complex datasets into actionable insights using **SQL, Power BI, Excel and Python**.
+
+I’m also building skills in **Deep Learning, NLP, LLMs, building Data Pipelines with Process Automation**, combining my industry knowledge with technical expertise to deliver **Data-driven solutions**.<br>
+
+I bring a rare blend of **hands-on industry expertise and analytics skills**, making me uniquely positioned to help organizations **turn raw data into strategies that drive efficiency, innovation, and growth**.
 
 ---
 
