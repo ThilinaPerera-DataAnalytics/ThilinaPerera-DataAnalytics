@@ -33,6 +33,6 @@ I’m also building skills in **Deep Learning, NLP, LLMs, building data pipeline
 ---
 [![](https://visitcount.itsvg.in/api?id=ThilinaPerera-DataAnalytics&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Thilina Perera**
+**Thilina Perera/ Data with TP**
 
     📌 Data Science & Analytics | Machine Learning, Deep Learning, LLM/ LMM, NLP, Data Pipelines & Process Automation Enthusiast
