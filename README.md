@@ -1,5 +1,6 @@
+<img src="avatar.png" width="60" height="90"><br>
 # 💫 Hi There..,
-**Data Analytics/ Data Science/ Data Engineering | Power BI Certified | 9+ years in QA/ QC, Food, Warehousing & Logistics**<br>
+**Data Analytibrcs/ Data Science/ Data Engineering | Power BI Certified | 9+ years in QA/ QC, Food, Warehousing & Logistics**<br>
 <br>I’m a **Microsoft Certified Power BI Data Analyst (PL-300)** with a strong foundation in **Data Analytics**, **Data Storytelling**, and **Visualization**.
 
 My career started in the **Food industry, Quality Assurance, Warehousing, and Logistics**, where I spent 9+ years ensuring ISO, HACCP, and FSSC 22000 compliance, **optimizing processes**, and **driving continuous improvement**.<br>
