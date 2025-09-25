@@ -1,4 +1,4 @@
-# <img src="avatar_f.png" width="215" height="180"><br>💫 Hi There..,
+# <img src="avatar_f.png" width="215" height="180">
 
 **Data Analytibrcs/ Data Science/ Data Engineering | Power BI Certified | 9+ years in QA/ QC, Food, Warehousing & Logistics**<br>
 <br>I’m a **Microsoft Certified Power BI Data Analyst (PL-300)** with a strong foundation in **Data Analytics**, **Data Storytelling**, and **Visualization**.
