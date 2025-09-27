@@ -1,5 +1,6 @@
 # <img src="avatar_f.png" width="215" height="180">
 
+
 **Data Analytics | Advanced Excel | Certified Power BI Certified Data Analyst (PL 300) | 9+ years in QA/QC <FMCG, Warehousing, Logistics>**<br>
 <br>As a **Microsoft Certified Power BI Data Analyst (PL-300)**, I specialize in **transforming complex data into compelling narratives and actionable insights** through **analytics, storytelling, and visualization**.
 ---
@@ -7,7 +8,7 @@ My unique advantage is a 9+ year foundation in the Food industry, Warehousing, a
 
 Currently, I am focused on **Data science and Analytics**, leveraging **Excel, SQL, Power BI and Python for machine learning** to deliver data-driven solutions. I am continuously expanding my expertise into **Deep Learning, Natural Language Processing, LLMs, and Building Automated Data Pipelines.**<br>
 
-I offer a rare blend of **practical industry knowledge and advanced technical skills**, uniquely positioning me to help **organizations leverage their data for greater efficiency, innovation, and growth.**
+**I offer a rare blend of **practical industry knowledge and advanced technical skills**, uniquely positioning me to help **organizations leverage their data for greater efficiency, innovation, and growth.**
 ---
 
 ## 🌐 Where you can find me:
