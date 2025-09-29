@@ -6,7 +6,7 @@ As a **Microsoft Certified Power BI Data Analyst (PL-300)**, I specialize in **t
 
 My unique advantage is a 9+ year foundation in the Food industry, Warehousing, and Logistics, where I ensured ISO, HACCP, and FSSC 22000 compliance, while **optimizing processes**, and **driving continuous improvement.** This hands-on experience gives me a deep understanding of the operational challenges that data can solve.<br>
 
-Currently, I am focused on **Data science and Analytics**, leveraging **Excel, SQL, Power BI and Python for machine learning** to deliver data-driven solutions. Furthermore, I am continuously expanding my expertise into **Deep Learning, Natural Language Processing, LLMs, and Building Automated Data Pipelines, etc.**<br>
+Currently, I am focused on **Data science and Analytics**, leveraging **Excel, SQL, Power BI and AI/ machine learning with Python** to deliver data-driven solutions. Furthermore, I am continuously expanding my expertise into **Deep Learning, Natural Language Processing, LLMs, and Building Automated Data Pipelines, etc.**<br>
 
 I offer a rare blend of **practical industry knowledge and modern technical skills**, which uniquely positions me to help **organizations leverage their data for greater efficiency, innovation, and growth.**
 
