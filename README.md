@@ -36,5 +36,5 @@ I offer a rare blend of **practical industry knowledge and modern technical skil
 
 **Thilina Perera/ Data with TP**
 
-    📌 Data Science/ Data Analytics<br>
+    📌 Data Science/ Data Analytics
     📌 Exploring Data Engineering, Machine Learning, Deep Learning, LLM, NLP, and Automated Data Pipelines.
