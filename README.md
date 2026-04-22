@@ -1,14 +1,21 @@
 # <img src="avatar_f.png" width="215" height="180">
 
-**Certified Power BI Data Analyst (PL 300) | Advanced Excel, SQL, Python | 9+ years in FMCG, Warehousing, Logistics**<br>
+ **Data Analyst | BI Developer (PL-300) | End-to-End Power BI | SQL, Python, Machine Learning, Data Engineering (Growing)**
 
-As a **Microsoft Certified Power BI Data Analyst (PL-300)**, I specialize in **transforming complex data into compelling narratives and actionable insights** through **Descriptive, Diagnostic and Predictive Analytics with Visual Storytelling.**<br>
+As a **Microsoft Certified Power BI Data Analyst (PL-300)**, I specialize in designing and delivering **end-to-end BI solutions**, transforming raw, fragmented data into **structured, decision-ready insights** using Power BI, SQL, and Excel.
 
-My unique advantage is a 9+ year foundation in the Food industry, Warehousing, and Logistics, where I ensured ISO, HACCP, and FSSC 22000 compliance, while **optimizing processes**, and **driving continuous improvement.** This hands-on experience gives me a deep understanding of the operational challenges that data can solve.<br>
+With **9+ years of experience in FMCG (food), warehousing, and logistics**, I bring strong domain knowledge in **operations, compliance (ISO 9001/ FSSC 22000), and performance management**. This enables me to go beyond dashboards and focus on **what actually drives business outcomes**—KPI visibility, trend analysis, risk identification, and actionable insights.
 
-Currently, I am focused on **Data science and Analytics**, leveraging **Excel, SQL, Power BI and AI/ Machine Learning with Python** to deliver data-driven solutions. Furthermore, I am continuously expanding my expertise into **Deep Learning, Natural Language Processing, LLMs, and Building Automated Data Pipelines, etc.**<br>
+My work focuses on building **complete Power BI ecosystems**, including:
+* Data source standardization and validation
+* ETL using Power Query (M)
+* Scalable data modeling and optimized DAX
+* Business-aligned dashboard design
+* Deployment, governance, and automated refresh via Power BI Service
 
-I offer a rare blend of **practical industry knowledge and modern technical skills**, which uniquely positions me to help **organizations leverage their data for greater efficiency, innovation, and growth.**
+Alongside BI, I am expanding into **data engineering**, building automated data pipelines using **Python and PostgreSQL**, and exploring **data-warehousing**, **cloud-based architectures** to support scalable, production-ready analytics systems.
+
+I combine **operational experience + analytics capability + systems thinking**, with a focus on building solutions that move organizations from **manual reporting to scalable, insight-driven decision environments**.
 
 ---
 
