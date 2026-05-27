@@ -2,25 +2,22 @@
 
  **Data Analyst | BI Developer (PL-300) | End-to-End Power BI | SQL, Python, Machine Learning, Data Engineering (Growing)**
 
-As a **Microsoft Certified Power BI Data Analyst (PL-300)**, I specialize in designing and delivering **end-to-end BI solutions**, transforming raw, fragmented data into **structured, decision-ready insights** using Power BI, SQL, and Excel.
+I specialize in **designing and delivering end-to-end BI solutions**, transforming raw, fragmented operational data into structured, decision-ready insights using **Excel, Power BI, SQL, and Python**.
 
-With **9+ years of experience in FMCG (food), warehousing, and logistics**, I bring strong domain knowledge in **operations, compliance (ISO 9001/ FSSC 22000), and performance management**. This enables me to go beyond dashboards and focus on **what actually drives business outcomes**—KPI visibility, trend analysis, risk identification, and actionable insights.
+With **10+ years of experience** in **FMCG (food), warehousing, and logistics**, I bring a strong understanding of **real-world operations, compliance (ISO, HACCP, FSSC 22000), and performance management**. This allows me to go beyond reporting and focus on what actually drives **business outcomes, KPI visibility, trend identification, and actionable insights** for management.
 
-My work focuses on building **complete Power BI ecosystems**, including:
-* Data source standardization and validation
-* ETL using Power Query (M)
-* Scalable data modeling and optimized DAX
-* Business-aligned dashboard design
-* Deployment, governance, and automated refresh via Power BI Service
+In my current work, **I design complete Power BI ecosystems**, covering:
+  - Data source standardization and validation
+  - ETL using Power Query (Custom M codes)
+  - Scalable data modeling and optimized DAX
+  - Dashboard design aligned with business needs
+  - Deployment, governance, and automated refresh via Power BI Service
 
-Alongside BI, I am expanding into **data engineering**, building automated data pipelines using **Python and PostgreSQL**, and exploring **data-warehousing**, **cloud-based architectures** to support scalable, production-ready analytics systems.
+I work closely with stakeholders to capture requirements, define KPIs, and *translate business needs into analytical solutions*, ensuring outputs are practical, accurate, and used in decision-making.
 
-I combine **operational experience + analytics capability + systems thinking**, with a focus on building solutions that move organizations from **manual reporting to scalable, insight-driven decision environments**.
+Alongside BI, I am expanding into **data engineering**, focusing on **automated data pipelines, PostgreSQL and Python-based processing, and cloud-enabled architectures** to support scalable, production-ready analytics systems.
 
----
-
-### 🌐 Find me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thilina-perera-148aa934/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@data_with_tp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Data_with_TP) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kgttpereraqatar2022@gmail.com) 
+I bring a combination of *operational experience + analytics capability + systems thinking*, positioning me to contribute to organizations looking to move from manual reporting to structured, scalable, and insight-driven decision environments.
 
 ---
 
@@ -30,6 +27,11 @@ I combine **operational experience + analytics capability + systems thinking**, 
 ### 🎯→📚→🎓→✅ Learning Pipeline:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![DevOps](https://img.shields.io/badge/DevOps-009639?style=for-the-badge&logo=devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+---
+### 🌐 Find me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thilina-perera-148aa934/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@data_with_tp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Data_with_TP) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kgttpereraqatar2022@gmail.com) 
+
+---
 **Thilina Perera | Data with TP**
 ```
 📌 Data Science/ Data Analytics D-Technosavant
